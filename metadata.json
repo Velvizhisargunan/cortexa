@@ -1,0 +1,7 @@
+{
+  "name": "Cortexa AI",
+  "description": "An emotion-aware study assistant that distills dense content and removes distractions to help you focus.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
